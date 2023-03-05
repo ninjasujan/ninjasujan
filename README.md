@@ -1,16 +1,18 @@
-### Hi there 👋
+### hey there 
+ <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
-<!--
-**ninjasujan/ninjasujan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</a>
+<a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
+
+<br />
+
+hi, i'm **Sujan**, a passionate self-taught full stack web developer, Interested in product architect, development, and solving complex real-world system design problems.
+
+Since I am fascinated by the term "data," my areas of interest involve **database**, **data structure**, **algorithms** and **system designing**.
