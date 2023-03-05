@@ -20,7 +20,7 @@ Since I am fascinated by the term "data," my areas of interest involve **databas
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/MarioTerron/logo-images/master/logos/expressjs.png?raw=true"></code>
+<code><img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="20" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png?raw=true"></code>
