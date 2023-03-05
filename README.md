@@ -11,7 +11,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
 
-<br />
+<br/>
 
 hi, i'm **Sujan**, a passionate self-taught full stack web developer, Interested in product architect, development, and solving complex real-world system design problems.
 
