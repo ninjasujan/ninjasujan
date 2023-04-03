@@ -7,7 +7,6 @@
 
 hi, i'm **Sujan**, a passionate self-taught full stack web developer, Interested in product development, architect, solving complex design problems and database schema design.
 
-Since I am fascinated by the term "data," my areas of interest involve **database**, **data structure**, **algorithms** and **system designing**.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
