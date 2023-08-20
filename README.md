@@ -2,15 +2,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
 
-hi, i'm **Sujan**, a passionate self-taught full stack web developer, Interested in product development, architect, solving complex design problems and database schema design.
-
+hi, I'm **Sujan**, a passionate self-taught full-stack web developer Having 3 years of experience working in a product-driven startup. Having a great interest in product development, learning software architecture principles, and solving complex system design problems.
+Experienced in containerized server architecture and serverless microservice design principles.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:sujanb.poojary@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**  
+**Languages and tools:**  
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
