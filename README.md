@@ -1,7 +1,8 @@
 ### hey there 
 
-hi, I'm **Sujan**, a passionate self-taught full-stack web developer Having 3 years of experience working in a product-driven startup. Having a great interest in product development, learning software architecture design principles, and solving complex system design problems. Experienced in containerized server architecture and serverless microservice design principles.
-Currently working on AI-based recruitment software product as Senior full-stack developer.
+hi, I'm **Sujan**, a passionate self-taught full-stack web developer Having 3 years of experience working in a product-driven startup. A keen interest in product development, knowledge of software architecture design concepts, and ability to analyze and resolve difficult design issues. Experienced with serverless microservice design principles and containerized server architecture.
+
+Currently employed as a Senior Full-Stack Developer on an AI-based recruitment software solution.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
