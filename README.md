@@ -2,8 +2,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
 
-hi, I'm **Sujan**, a passionate self-taught full-stack web developer Having 3 years of experience working in a product-driven startup. Having a great interest in product development, learning software architecture principles, and solving complex system design problems.
-Experienced in containerized server architecture and serverless microservice design principles.
+hi, I'm **Sujan**, a passionate self-taught full-stack web developer Having 3 years of experience working in a product-driven startup. Having a great interest in product development, learning software architecture design principles, and solving complex system design problems. Experienced in containerized server architecture and serverless microservice design principles.
+Currently working on AI-based recruitment software product as Senior full-stack developer.
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -30,15 +30,15 @@ Experienced in containerized server architecture and serverless microservice des
 
 <br/>
 
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:waka-->
 **Elastic search** <br/>
 I've always wondered how e-commerce sites provide accurate product results to users, even when the user enters an incorrect product description into the search bar.
-so I began working on this problem statement and attempted to create my first auto completion and product suggestion search box using elastic search.<br/>
+so I began working on this problem statement and attempted to create my first auto-completion and product suggestion search box using elastic search.<br/>
 **(coming soon - keep an eye on my elastic search repo for updates.)**
 <!--END_SECTION:waka-->
 
-🚧 **my personal projects:**
+🚧 **My personal projects:**
 <!-- TODO-IST:START -->
 1. [Serverless lambda](https://github.com/ninjasujan/aws-serverless)
 2. [Social Feed Backend](https://github.com/ninjasujan/social-feed-backend)
