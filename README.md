@@ -1,6 +1,5 @@
 ### hey there 
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
 
 hi, i'm **Sujan**, a passionate self-taught full stack web developer, Interested in product development, architect, solving complex design problems and database schema design.
