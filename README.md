@@ -1,7 +1,5 @@
 ### hey there 
 
-![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
-
 hi, I'm **Sujan**, a passionate self-taught full-stack web developer Having 3 years of experience working in a product-driven startup. Having a great interest in product development, learning software architecture design principles, and solving complex system design problems. Experienced in containerized server architecture and serverless microservice design principles.
 Currently working on AI-based recruitment software product as Senior full-stack developer.
 
