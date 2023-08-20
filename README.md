@@ -1,7 +1,5 @@
 ### hey there 
- <a href="https://www.linkedin.com/in/sujan-poojary-05b63a190/">
-  <img align="left" alt="Sujan LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ninjasujan.ninjasujan)
 
