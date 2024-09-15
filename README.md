@@ -1,6 +1,6 @@
 ### hey there 
 
-Hello, I'm Sujan, a self-taught full-stack web developer with 3 years of experience in a product startup environment. I have a strong interest in product development and software architecture design. I specialize in serverless microservice design principles and containerized server architecture.
+Hello, I'm Sujan, a self-taught full-stack web developer with 4 years of experience in a product startup environment. I have a strong interest in product development and software architecture design. I specialize in serverless microservice design principles and containerized server architecture.
 
 Currently employed as a Senior Full-Stack Developer on an AI-based recruitment software solution.
 
