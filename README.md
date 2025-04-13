@@ -1,15 +1,17 @@
-### hey there 
+### Hey there 👋
 
-Hello, I'm Sujan, full-stack web developer with 4 years of experience in a product startup environment. I have a strong interest in product development and software architecture design. I specialize in serverless microservice design principles and containerized server architecture.
+I'm Sujan — a passionate Full-Stack Web Developer with 4 years of experience thriving in dynamic startup environments. I love building products, exploring scalable backend architecture, and working with modern web technologies.
 
-Currently employed as a Senior Full-Stack Developer on an AI-based recruitment software solution.
+I specialize in serverless microservices and containerized server designs, and I’m always looking to improve my skills through hands-on projects and problem-solving.
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:sujanb.poojary@gmail.com) :)
-- 💬 ask me about anything, I am happy to help;
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**Languages and tools:**  
+- 💼 Open for freelance or consulting work — [Reach out](mailto:sujanb.poojary@gmail.com)
+- 💬 Let’s chat about anything — backend design, system architecture, or just tech in general!
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
@@ -26,21 +28,15 @@ Currently employed as a Senior Full-Stack Developer on an AI-based recruitment s
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></code>
 
+---
 
-<br/>
+### 🚧 Side Projects & Code Demos
 
-📊 **This week I spent my time on:**
-<!--START_SECTION:waka-->
-**Elastic search** <br/>
-I've always wondered how e-commerce sites provide accurate product results to users, even when the user enters an incorrect product description into the search bar.
-so I began working on this problem statement and attempted to create my first auto-completion and product suggestion search box using elastic search.<br/>
-**(coming soon - keep an eye on my elastic search repo for updates.)**
-<!--END_SECTION:waka-->
+1. [Serverless Lambda Functions](https://github.com/ninjasujan/aws-serverless)
+2. [Social Feed Backend (REST API)](https://github.com/ninjasujan/social-feed-backend)
+3. [Apache Kafka with Node.js](https://github.com/ninjasujan/apache-kafka)
+4. [gRPC with Node.js](https://github.com/ninjasujan/gRPC-demo)
 
-🚧 **My personal projects:**
-<!-- TODO-IST:START -->
-1. [Serverless lambda](https://github.com/ninjasujan/aws-serverless)
-2. [Social Feed Backend](https://github.com/ninjasujan/social-feed-backend)
-3. [Apache Kafka and Nodejs](https://github.com/ninjasujan/apache-kafka)
-4. [gRPC Nodejs Demo](https://github.com/ninjasujan/gRPC-demo)
-<!-- TODO-IST:END -->
+---
+
+Thanks for stopping by! Drop a ⭐ if you like any of my projects or just say hi 👋
