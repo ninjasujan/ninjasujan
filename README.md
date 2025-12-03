@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Sujan — a full-stack developer with 4+ years of experience in startup environments. I enjoy crafting robust backend systems and clean frontend interfaces.  
+I'm Sujan — a full-stack developer with 5+ years of experience in startup environments. I enjoy crafting robust backend systems and clean frontend interfaces.  
 Currently diving deep into core backend architecture and building scalable systems with an eye on clean code, performance, and maintainability.  
 I’m especially interested in solving real-world tech problems like rate limiting, log retention, and designing secure, efficient data flows.
 
